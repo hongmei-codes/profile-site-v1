@@ -1,10 +1,12 @@
-# Profile website 👩🏻‍💻
+# Profile site (version 1)👩🏻‍💻
 
-Check out my profile site [here](hongmei-codes.github.io)
+[This](https://hongmei-codes.github.io/profile-site-v1) is the first iteration of my profile site.
 
-![demo](https://github.com/hongmei-codes/hongmei-codes.github.io/blob/master/demo/profile_site.gif)
+![demo](/demo/profile_site.gif)
 
 ---
+
 Resources:
+
 1. [css style: text selction](w3schools.com/howto/howto_css_text_selection.asp)
 2. [scroll snap effect](https://codepen.io/bchiang7/pen/MWwRwwa)
